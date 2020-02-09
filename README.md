@@ -1,2 +1,2 @@
 # hello-word
-just another repository
+Eu sou novo em programação, e gostaria de aprender mais sobre o assunto.
